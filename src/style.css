@@ -1,0 +1,4 @@
+.carousel slide carousel-fade{
+    object-fit: contain !important; 
+    height: 100px;
+}
