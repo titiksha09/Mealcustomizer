@@ -1,0 +1,1883 @@
+[
+  {
+    "name": "Achari Bhindi",
+    "quantity": "1 katori",
+    "calorie": 112.1,
+    "protein": 2.1,
+    "fibre": 4,
+    "carbs": 7,
+    "fats": 8.7
+  },
+  {
+    "name": "Almonds",
+    "quantity": "1 piece",
+    "calorie": 7.4,
+    "protein": 0.3,
+    "fibre": 0.2,
+    "carbs": 0.3,
+    "fats": 0.6
+  },
+  {
+    "name": "Aloo Bhindi",
+    "quantity": "1 katori",
+    "calorie": 87.8,
+    "protein": 1.7,
+    "fibre": 4,
+    "carbs": 10.6,
+    "fats": 4.4
+  },
+  {
+    "name": "Aloo Chips",
+    "quantity": "1 piece",
+    "calorie": 10.4,
+    "protein": 0.1,
+    "fibre": 0.0,
+    "carbs": 1.0,
+    "fats": 0.7
+  },
+  {
+    "name": "Aloo Gobi",
+    "quantity": "1 katori",
+    "calorie": 94.6,
+    "protein": 1.7,
+    "fibre": 2.2,
+    "carbs": 14.5,
+    "fats": 3.5
+  },
+  {
+    "name": "Aloo Paratha",
+    "quantity": "1 piece",
+    "calorie": 203,
+    "protein": 4.7,
+    "fibre": 4.4,
+    "carbs": 31.2,
+    "fats": 6.7
+  },
+  {
+    "name": "Aloo Patties",
+    "quantity": "1 piece",
+    "calorie": 84,
+    "protein": 0.7,
+    "fibre": 0.8,
+    "carbs": 10.2,
+    "fats": 4.6
+  },
+  {
+    "name": "Aloo Shimla Mirch (Aloo Capsicum)",
+    "quantity": "1 katori",
+    "calorie": 98.1,
+    "protein": 1.5,
+    "fibre": 2.3,
+    "carbs": 11.7,
+    "fats": 5.3
+  },
+  {
+    "name": "Anarsa",
+    "quantity": "1 piece",
+    "calorie": 111,
+    "protein": 1.4,
+    "fibre": 0.2,
+    "carbs": 18.1,
+    "fats": 3.7
+  },
+  {
+    "name": "Anarsa Goli",
+    "quantity": "1 piece",
+    "calorie": 25,
+    "protein": 0.2,
+    "fibre": 0.0,
+    "carbs": 5.8,
+    "fats": 0.2
+  },
+  {
+    "name": "Apple",
+    "quantity": "1 piece",
+    "calorie": 88.3,
+    "protein": 0.3,
+    "fibre": 4.8,
+    "carbs": 20.0,
+    "fats": 0.8
+  },
+  {
+    "name": "Apple Juice",
+    "quantity": "1 Glass(250 ml)",
+    "calorie": 71,
+    "protein": 0.2,
+    "fibre": 3.8,
+    "carbs": 16.1,
+    "fats": 0.6
+  },
+  {
+    "name": "Avocado",
+    "quantity": "1 piece",
+    "calorie": 290.2,
+    "protein": 5.9,
+    "fibre": 13.5,
+    "carbs": 3.5,
+    "fats": 27.9
+  },
+  {
+    "name": "Baingan Bharta",
+    "quantity": "1 katori",
+    "calorie": 73,
+    "protein": 1.9,
+    "fibre": 3.2,
+    "carbs": 7.3,
+    "fats": 4.2
+  },
+  {
+    "name": "Balushahi",
+    "quantity": "1 piece",
+    "calorie": 220,
+    "protein": 3.2,
+    "fibre": 0.8,
+    "carbs": 28.4,
+    "fats": 10.3
+  },
+  {
+    "name": "Banana - raw",
+    "quantity": "1 piece",
+    "calorie": 90.2,
+    "protein": 1.1,
+    "fibre": 2.6,
+    "carbs": 23.1,
+    "fats": 0.3
+  },
+  {
+    "name": "Banana - ripe",
+    "quantity": "1 piece",
+    "calorie": 55.5,
+    "protein": 0.6,
+    "fibre": 0.9,
+    "carbs": 12.8,
+    "fats": 0.2
+  },
+  {
+    "name": "Banana Chips",
+    "quantity": "1 piece",
+    "calorie": 8,
+    "protein": 0.0,
+    "fibre": 0.1,
+    "carbs": 0.9,
+    "fats": 0.5
+  },
+  {
+    "name": "Barfi",
+    "quantity": "1 (30 gram)",
+    "calorie": 123,
+    "protein": 1.2,
+    "fibre": 0.4,
+    "carbs": 18.4,
+    "fats": 5.1
+  },
+  {
+    "name": "Basundi",
+    "quantity": "1 katori",
+    "calorie": 275,
+    "protein": 9.8,
+    "fibre": 0.6,
+    "carbs": 33.2,
+    "fats": 12.6
+  },
+  {
+    "name": "Batata Bhaji (Maharashtrian Potato Bhaji)",
+    "quantity": "1 (20 gram)",
+    "calorie": 43,
+    "protein": 0.6,
+    "fibre": 0.4,
+    "carbs": 4.0,
+    "fats": 2.7
+  },
+  {
+    "name": "Besan Halwa",
+    "quantity": "1 katori",
+    "calorie": 275,
+    "protein": 8.1,
+    "fibre": 2.6,
+    "carbs": 27.2,
+    "fats": 14.9
+  },
+  {
+    "name": "Besan Laddoo",
+    "quantity": "1 (30 gram)",
+    "calorie": 144,
+    "protein": 3.0,
+    "fibre": 1.4,
+    "carbs": 18.7,
+    "fats": 6.5
+  },
+  {
+    "name": "Bhelpuri",
+    "quantity": "1 katori",
+    "calorie": 100,
+    "protein": 2.5,
+    "fibre": 1.4,
+    "carbs": 13.1,
+    "fats": 4.3
+  },
+  {
+    "name": "Bhindi Bhaji (Bhendi Chi Bhaji)",
+    "quantity": "1 katori",
+    "calorie": 74,
+    "protein": 2.2,
+    "fibre": 4.1,
+    "carbs": 7.5,
+    "fats": 3.9
+  },
+  {
+    "name": "Bhindi Capsicum Sabzi",
+    "quantity": "1 katori",
+    "calorie": 71,
+    "protein": 1.2,
+    "fibre": 1.9,
+    "carbs": 7.2,
+    "fats": 4.6
+  },
+  {
+    "name": "Bhindi Fry",
+    "quantity": "1 katori",
+    "calorie": 92,
+    "protein": 1.5,
+    "fibre": 2.6,
+    "carbs": 6.1,
+    "fats": 7.0
+  },
+  {
+    "name": "Bhindi Masala",
+    "quantity": "1 katori",
+    "calorie": 87,
+    "protein": 1.7,
+    "fibre": 3.0,
+    "carbs": 7.0,
+    "fats": 6.0
+  },
+  {
+    "name": "Bikaneri Bhujia",
+    "quantity": "1 gram",
+    "calorie": 6.6,
+    "protein": 0.2,
+    "fibre": 0.0,
+    "carbs": 0.4,
+    "fats": 0.4
+  },
+  {
+    "name": "Black plum-Jamun",
+    "quantity": "1(40 gram)",
+    "calorie": 135,
+    "protein": 2.5,
+    "fibre": 0.0,
+    "carbs": 20.6,
+    "fats": 5.0
+  },
+  {
+    "name": "Blackberry",
+    "quantity": "1 gram",
+    "calorie": 0,
+    "protein": 0.0,
+    "fibre": 0.1,
+    "carbs": 0.1,
+    "fats": 0.0
+  },
+  {
+    "name": "Boondi",
+    "quantity": "10 gram",
+    "calorie": 56,
+    "protein": 1.0,
+    "fibre": 1.0,
+    "carbs": 4.0,
+    "fats": 4.0
+  },
+  {
+    "name": "Boondi Raita",
+    "quantity": "1 katori",
+    "calorie": 163,
+    "protein": 5.2,
+    "fibre": 2.2,
+    "carbs": 10.9,
+    "fats": 11.2
+  },
+  {
+    "name": "Bread Chop",
+    "quantity": "1 (30.0 gram)",
+    "calorie": 82,
+    "protein": 0.7,
+    "fibre": 0.9,
+    "carbs": 4.8,
+    "fats": 6.6
+  },
+  {
+    "name": "Broccoli Sabzi",
+    "quantity": "1 katori",
+    "calorie": 68,
+    "protein": 2.1,
+    "fibre": 2.3,
+    "carbs": 6.6,
+    "fats": 3.7
+  },
+  {
+    "name": "Bundi Laddu",
+    "quantity": "1 (50 gram)",
+    "calorie": 155,
+    "protein": 2.6,
+    "fibre": 1.2,
+    "carbs": 26.0,
+    "fats": 4.8
+  },
+  {
+    "name": "Burger",
+    "quantity": "1 (195 gram)",
+    "calorie": 391,
+    "protein": 8.4,
+    "fibre": 2.8,
+    "carbs": 55.5,
+    "fats": 15.1
+  },
+  {
+    "name": "Butter Chicken",
+    "quantity": "1 katori",
+    "calorie": 190,
+    "protein": 15.7,
+    "fibre": 1.3,
+    "carbs": 4.6,
+    "fats": 11.0
+  },
+  {
+    "name": "Cashews",
+    "quantity": 1,
+    "calorie": 8,
+    "protein": 0.3,
+    "fibre": 0.1,
+    "carbs": 0.3,
+    "fats": 0.7
+  },
+  {
+    "name": "Chaat – 1 plate",
+    "quantity": "1 katori",
+    "calorie": 24,
+    "protein": 1.7,
+    "fibre": 1.4,
+    "carbs": 5.2,
+    "fats": 0.2
+  },
+  {
+    "name": "Chana Ghiya Dal",
+    "quantity": "1 katori",
+    "calorie": 121,
+    "protein": 4.9,
+    "fibre": 4.4,
+    "carbs": 15.7,
+    "fats": 4.3
+  },
+  {
+    "name": "Chicken 65",
+    "quantity": "1 katori",
+    "calorie": 245,
+    "protein": 14.3,
+    "fibre": 0.9,
+    "carbs": 7.6,
+    "fats": 17.2
+  },
+  {
+    "name": "Chicken Biryani",
+    "quantity": "1 katori",
+    "calorie": 167,
+    "protein": 8.0,
+    "fibre": 0.6,
+    "carbs": 17.7,
+    "fats": 6.8
+  },
+  {
+    "name": "Chicken Burger",
+    "quantity": "1 (194 gram)",
+    "calorie": 444,
+    "protein": 18.3,
+    "fibre": 1.5,
+    "carbs": 37.4,
+    "fats": 23.7
+  },
+  {
+    "name": "Chicken Chilli",
+    "quantity": "1 katori",
+    "calorie": 177,
+    "protein": 12.3,
+    "fibre": 0.7,
+    "carbs": 8.4,
+    "fats": 10.3
+  },
+  {
+    "name": "Chicken Chowmein Gravy",
+    "quantity": "1 katori",
+    "calorie": 173.3,
+    "protein": 8.7,
+    "fibre": 1.5,
+    "carbs": 21.5,
+    "fats": 5.8
+  },
+  {
+    "name": "Chicken Curry",
+    "quantity": "1 katori",
+    "calorie": 160,
+    "protein": 15.7,
+    "fibre": 1.8,
+    "carbs": 5.2,
+    "fats": 8.3
+  },
+  {
+    "name": "Chicken Kebab",
+    "quantity": "1 kabab(30 gram)",
+    "calorie": 46,
+    "protein": 5.6,
+    "fibre": 0.1,
+    "carbs": 0.4,
+    "fats": 2.1
+  },
+  {
+    "name": "Chicken Korma",
+    "quantity": "1 katori",
+    "calorie": 167,
+    "protein": 16.2,
+    "fibre": 1.3,
+    "carbs": 4.9,
+    "fats": 8.9
+  },
+  {
+    "name": "Chicken Pizza",
+    "quantity": "1 slice(137 gram)",
+    "calorie": 225,
+    "protein": 15.5,
+    "fibre": 1.4,
+    "carbs": 20.8,
+    "fats": 8.5
+  },
+  {
+    "name": "Chicken Salad",
+    "quantity": "1 cup(166 gram)",
+    "calorie": 178,
+    "protein": 9.2,
+    "fibre": 2.4,
+    "carbs": 15.4,
+    "fats": 9.1
+  },
+  {
+    "name": "Chicken Soup",
+    "quantity": "1 katori",
+    "calorie": 92,
+    "protein": 10.7,
+    "fibre": 1.1,
+    "carbs": 3.4,
+    "fats": 3.7
+  },
+  {
+    "name": "Chicken Tikka",
+    "quantity": "1 Tikka (50 gram)",
+    "calorie": 76,
+    "protein": 8.9,
+    "fibre": 0.3,
+    "carbs": 1.0,
+    "fats": 3.7
+  },
+  {
+    "name": "Chickoo",
+    "quantity": "1 piece",
+    "calorie": 59,
+    "protein": 0.4,
+    "fibre": 6.5,
+    "carbs": 12.8,
+    "fats": 0.7
+  },
+  {
+    "name": "Chowmein",
+    "quantity": "1 katori",
+    "calorie": 129,
+    "protein": 3.7,
+    "fibre": 0.9,
+    "carbs": 21.5,
+    "fats": 3.3
+  },
+  {
+    "name": "Corn Salad",
+    "quantity": "1 katori",
+    "calorie": 81,
+    "protein": 2.2,
+    "fibre": 2.1,
+    "carbs": 13.5,
+    "fats": 3.0
+  },
+  {
+    "name": "Cucumber",
+    "quantity": "1 (280 gram)",
+    "calorie": 42,
+    "protein": 1.8,
+    "fibre": 1.4,
+    "carbs": 10.2,
+    "fats": 0.3
+  },
+  {
+    "name": "Curd",
+    "quantity": "1 katori",
+    "calorie": 90,
+    "protein": 4.7,
+    "fibre": 0.0,
+    "carbs": 4.5,
+    "fats": 6.0
+  },
+  {
+    "name": "Custard apple",
+    "quantity": "1(100 gram)",
+    "calorie": 94,
+    "protein": 2.1,
+    "fibre": 4.4,
+    "carbs": 23.6,
+    "fats": 0.0
+  },
+  {
+    "name": "Daal Makhnai",
+    "quantity": "1 katori",
+    "calorie": 165,
+    "protein": 6.1,
+    "fibre": 5.9,
+    "carbs": 16.5,
+    "fats": 8.3
+  },
+  {
+    "name": "Dabeli",
+    "quantity": "1 piece",
+    "calorie": 303,
+    "protein": 5.1,
+    "fibre": 2.5,
+    "carbs": 44.7,
+    "fats": 12.0
+  },
+  {
+    "name": "Dahi Bada",
+    "quantity": "1(155 gram)",
+    "calorie": 215,
+    "protein": 8.0,
+    "fibre": 3.8,
+    "carbs": 22.0,
+    "fats": 11.0
+  },
+  {
+    "name": "Dal Baati",
+    "quantity": "1 serve(230 g)",
+    "calorie": 440,
+    "protein": 15.3,
+    "fibre": 11.2,
+    "carbs": 61.7,
+    "fats": 14.9
+  },
+  {
+    "name": "Dark Chocolate",
+    "quantity": "1 piece (7.6 g)",
+    "calorie": 40,
+    "protein": 0.4,
+    "fibre": 0.5,
+    "carbs": 4.6,
+    "fats": 2.5
+  },
+  {
+    "name": "Dates-Khajoor",
+    "quantity": "1 (8 gram)",
+    "calorie": 12,
+    "protein": 0.1,
+    "fibre": 0.6,
+    "carbs": 2.7,
+    "fats": 0.0
+  },
+  {
+    "name": "Dhokla",
+    "quantity": "1 (35 gram)",
+    "calorie": 54,
+    "protein": 2.4,
+    "fibre": 1.0,
+    "carbs": 5.6,
+    "fats": 2.4
+  },
+  {
+    "name": "Dosa",
+    "quantity": "1 (80 gram)",
+    "calorie": 147,
+    "protein": 3.6,
+    "fibre": 1.3,
+    "carbs": 22.6,
+    "fats": 4.7
+  },
+  {
+    "name": "Dry Aloo Matar (Sukhi Sabzi)",
+    "quantity": "1 katori",
+    "calorie": 116,
+    "protein": 2.7,
+    "fibre": 1.8,
+    "carbs": 17.1,
+    "fats": 1.8
+  },
+  {
+    "name": "Egg Biryani",
+    "quantity": "1 katori",
+    "calorie": 149,
+    "protein": 4.7,
+    "fibre": 0.8,
+    "carbs": 22.0,
+    "fats": 4.5
+  },
+  {
+    "name": "Egg Curry",
+    "quantity": "1 katori",
+    "calorie": 159,
+    "protein": 7.1,
+    "fibre": 1.5,
+    "carbs": 4.6,
+    "fats": 12.3
+  },
+  {
+    "name": "Falooda",
+    "quantity": "1 glass(250 gram)",
+    "calorie": 295,
+    "protein": 8.0,
+    "fibre": 1.0,
+    "carbs": 35.5,
+    "fats": 13.8
+  },
+  {
+    "name": "Fish Chilli",
+    "quantity": "1 katori",
+    "calorie": 143,
+    "protein": 8.0,
+    "fibre": 0.4,
+    "carbs": 9.3,
+    "fats": 8.1
+  },
+  {
+    "name": "Fish Curry",
+    "quantity": "1 katori",
+    "calorie": 147,
+    "protein": 17.1,
+    "fibre": 2.5,
+    "carbs": 8.3,
+    "fats": 5.2
+  },
+  {
+    "name": "Fish Kebab",
+    "quantity": "1 piece(20 gram)",
+    "calorie": 45,
+    "protein": 3.3,
+    "fibre": 0.2,
+    "carbs": 3.0,
+    "fats": 2.2
+  },
+  {
+    "name": "Fish Tikka",
+    "quantity": "1 Tikka(40 gram)",
+    "calorie": 53,
+    "protein": 6.4,
+    "fibre": 0.1,
+    "carbs": 0.6,
+    "fats": 2.7
+  },
+  {
+    "name": "French Fries",
+    "quantity": "1 finger chips(5.0g)",
+    "calorie": 16,
+    "protein": 0.2,
+    "fibre": 0.2,
+    "carbs": 1.9,
+    "fats": 0.8
+  },
+  {
+    "name": "Fried Rice",
+    "quantity": "1 katori",
+    "calorie": 136,
+    "protein": 2.3,
+    "fibre": 0.9,
+    "carbs": 22.3,
+    "fats": 3.9
+  },
+  {
+    "name": "Gaajar Halwa",
+    "quantity": "1 katori",
+    "calorie": 164,
+    "protein": 3.4,
+    "fibre": 3.9,
+    "carbs": 26.5,
+    "fats": 5.3
+  },
+  {
+    "name": "Gajar Lauki halwa",
+    "quantity": "1 katori",
+    "calorie": 159,
+    "protein": 3.0,
+    "fibre": 2.8,
+    "carbs": 19.1,
+    "fats": 8.1
+  },
+  {
+    "name": "Ghevar",
+    "quantity": "1 Grever(50 gram)",
+    "calorie": 186,
+    "protein": 1.4,
+    "fibre": 0.4,
+    "carbs": 14.2,
+    "fats": 13.8
+  },
+  {
+    "name": "Grapes",
+    "quantity": "1 Grapes(5 gram)",
+    "calorie": 3,
+    "protein": 0.0,
+    "fibre": 0.1,
+    "carbs": 0.8,
+    "fats": 0.0
+  },
+  {
+    "name": "Guavas",
+    "quantity": "1(70 gram)",
+    "calorie": 48,
+    "protein": 1.8,
+    "fibre": 3.8,
+    "carbs": 10.0,
+    "fats": 0.7
+  },
+  {
+    "name": "Gulab jamun",
+    "quantity": "1(45 gram)",
+    "calorie": 150,
+    "protein": 2.5,
+    "fibre": 0.1,
+    "carbs": 24.0,
+    "fats": 5.2
+  },
+  {
+    "name": "Ice cream",
+    "quantity": "1 scoop(66 gram)",
+    "calorie": 145,
+    "protein": 2.5,
+    "fibre": 0.0,
+    "carbs": 14.4,
+    "fats": 8.6
+  },
+  {
+    "name": "Idli",
+    "quantity": "1 idli(50 gram)",
+    "calorie": 73,
+    "protein": 2.2,
+    "fibre": 1.3,
+    "carbs": 15.2,
+    "fats": 0.3
+  },
+  {
+    "name": "Imarti",
+    "quantity": "1 piece(45 gram)",
+    "calorie": 112,
+    "protein": 2.6,
+    "fibre": 2.2,
+    "carbs": 14.4,
+    "fats": 5.0
+  },
+  {
+    "name": "Jackfruit-Kathal",
+    "quantity": "1 cup (151 gram)",
+    "calorie": 133,
+    "protein": 2.9,
+    "fibre": 5.3,
+    "carbs": 29.9,
+    "fats": 0.2
+  },
+  {
+    "name": "Jalebi",
+    "quantity": "1 (25 gram)",
+    "calorie": 66,
+    "protein": 0.6,
+    "fibre": 0.2,
+    "carbs": 7.6,
+    "fats": 3.7
+  },
+  {
+    "name": "Jeera Aloo",
+    "quantity": "1 katori",
+    "calorie": 119,
+    "protein": 1.8,
+    "fibre": 2.2,
+    "carbs": 22.0,
+    "fats": 2.7
+  },
+  {
+    "name": "Kachori",
+    "quantity": "1 piece(50 gram)",
+    "calorie": 224,
+    "protein": 4.8,
+    "fibre": 2.1,
+    "carbs": 23.8,
+    "fats": 12.1
+  },
+  {
+    "name": "Kadai Bhindi Capsicum)",
+    "quantity": "1 katori",
+    "calorie": 59,
+    "protein": 1.7,
+    "fibre": 2.8,
+    "carbs": 6.4,
+    "fats": 3.0
+  },
+  {
+    "name": "Kaddu ki sabzi recipe (Pumpkin sabzi)",
+    "quantity": "1 katori",
+    "calorie": 55,
+    "protein": 1.2,
+    "fibre": 2.2,
+    "carbs": 6.8,
+    "fats": 2.9
+  },
+  {
+    "name": "Kaju katli",
+    "quantity": "1 piece(13 gram)",
+    "calorie": 51,
+    "protein": 1.3,
+    "fibre": 0.2,
+    "carbs": 4.8,
+    "fats": 3.0
+  },
+  {
+    "name": "Kalakand",
+    "quantity": "1 piece(50 gram)",
+    "calorie": 139,
+    "protein": 5.6,
+    "fibre": 0.1,
+    "carbs": 13.9,
+    "fats": 7.1
+  },
+  {
+    "name": "Karela Sabji (Indian Bitter Gourd Curry)",
+    "quantity": "1 piece(100 gram)",
+    "calorie": 51,
+    "protein": 1.6,
+    "fibre": 3.5,
+    "carbs": 5.8,
+    "fats": 2.5
+  },
+  {
+    "name": "Khakra",
+    "quantity": "1 piece(20 gram)",
+    "calorie": 89,
+    "protein": 2.5,
+    "fibre": 2.0,
+    "carbs": 13.0,
+    "fats": 3.0
+  },
+  {
+    "name": "Kheer",
+    "quantity": "1 katori",
+    "calorie": 305,
+    "protein": 7.4,
+    "fibre": 0.4,
+    "carbs": 45.1,
+    "fats": 11.3
+  },
+  {
+    "name": "Khichdi",
+    "quantity": "1 katori",
+    "calorie": 125,
+    "protein": 4.4,
+    "fibre": 1.2,
+    "carbs": 23.4,
+    "fats": 1.6
+  },
+  {
+    "name": "Kulcha",
+    "quantity": "1 katori(70 gram)",
+    "calorie": 168,
+    "protein": 3.7,
+    "fibre": 1.1,
+    "carbs": 24.3,
+    "fats": 6.1
+  },
+  {
+    "name": "Kulfi",
+    "quantity": "1 piece(120 gram)",
+    "calorie": 218,
+    "protein": 6.9,
+    "fibre": 0.1,
+    "carbs": 32.1,
+    "fats": 7.9
+  },
+  {
+    "name": "Kurkuri Bhindi",
+    "quantity": "1 katori",
+    "calorie": 152,
+    "protein": 2.7,
+    "fibre": 3.6,
+    "carbs": 9.0,
+    "fats": 12.0
+  },
+  {
+    "name": "Lassi",
+    "quantity": "1 glass",
+    "calorie": 202,
+    "protein": 6.4,
+    "fibre": 0.1,
+    "carbs": 26.5,
+    "fats": 8.2
+  },
+  {
+    "name": "Lauki Sabzi",
+    "quantity": "1 katori",
+    "calorie": 50,
+    "protein": 0.9,
+    "fibre": 3.6,
+    "carbs": 4.8,
+    "fats": 3.2
+  },
+  {
+    "name": "Lauki Tamatar Sabzi",
+    "quantity": "1 katori",
+    "calorie": 51,
+    "protein": 0.7,
+    "fibre": 2.0,
+    "carbs": 3.4,
+    "fats": 3.9
+  },
+  {
+    "name": "Litti Chokha",
+    "quantity": "1 serve(210 gram)",
+    "calorie": 416,
+    "protein": 10.7,
+    "fibre": 5.8,
+    "carbs": 49.0,
+    "fats": 19.1
+  },
+  {
+    "name": "Long Beans Sabzi",
+    "quantity": "1 katori",
+    "calorie": 80,
+    "protein": 2.1,
+    "fibre": 3.2,
+    "carbs": 5.9,
+    "fats": 5.5
+  },
+  {
+    "name": "Lychee - Litchi",
+    "quantity": "1 piece",
+    "calorie": 6,
+    "protein": 0.1,
+    "fibre": 0.1,
+    "carbs": 1.3,
+    "fats": 0.0
+  },
+  {
+    "name": "Mahim halwa",
+    "quantity": "1 piece",
+    "calorie": 21,
+    "protein": 0.3,
+    "fibre": 0.1,
+    "carbs": 2.6,
+    "fats": 0.9
+  },
+  {
+    "name": "Malpua",
+    "quantity": "1 piece(40 gram)",
+    "calorie": 100,
+    "protein": 1.2,
+    "fibre": 0.3,
+    "carbs": 14.0,
+    "fats": 4.4
+  },
+  {
+    "name": "Manchurian",
+    "quantity": "1 katori(100 gram)",
+    "calorie": 139,
+    "protein": 1.9,
+    "fibre": 1.7,
+    "carbs": 11.1,
+    "fats": 9.7
+  },
+  {
+    "name": "Mango Green/Raw",
+    "quantity": "1 piece",
+    "calorie": 99,
+    "protein": 1.4,
+    "fibre": 2.6,
+    "carbs": 24.7,
+    "fats": 0.6
+  },
+  {
+    "name": "Mango Ripe",
+    "quantity": "1 piece",
+    "calorie": 249,
+    "protein": 2.0,
+    "fibre": 6.7,
+    "carbs": 56.8,
+    "fats": 1.4
+  },
+  {
+    "name": "Masala Dosa",
+    "quantity": "1 small(102 gram)",
+    "calorie": 160,
+    "protein": 3.8,
+    "fibre": 2.0,
+    "carbs": 21.1,
+    "fats": 6.7
+  },
+  {
+    "name": "Masala Oats",
+    "quantity": "1 katori",
+    "calorie": 82,
+    "protein": 2.7,
+    "fibre": 2.9,
+    "carbs": 11.7,
+    "fats": 2.7
+  },
+  {
+    "name": "Matar Ki Sabzi (Dry Green Peas Recipe)",
+    "quantity": "1 katori",
+    "calorie": 91,
+    "protein": 3.7,
+    "fibre": 4.7,
+    "carbs": 10.9,
+    "fats": 3.8
+  },
+  {
+    "name": "Matar Mushroom Sabzi",
+    "quantity": "1 katori",
+    "calorie": 67,
+    "protein": 3.2,
+    "fibre": 2.5,
+    "carbs": 7.6,
+    "fats": 3.1
+  },
+  {
+    "name": "Methi Bhaji (Maharashtrian Methi Sabji)",
+    "quantity": "1 katori",
+    "calorie": 91,
+    "protein": 2.2,
+    "fibre": 2.8,
+    "carbs": 8.7,
+    "fats": 5.6
+  },
+  {
+    "name": "Methi Bhaji (Maharashtrian Methi Sabji)",
+    "quantity": "1 cup(21 gram)",
+    "calorie": 10,
+    "protein": 0.9,
+    "fibre": 1.0,
+    "carbs": 1.3,
+    "fats": 0.2
+  },
+  {
+    "name": "Milk",
+    "quantity": "1 glass(250 ml)",
+    "calorie": 168,
+    "protein": 8.0,
+    "fibre": 0.0,
+    "carbs": 11.0,
+    "fats": 10.3
+  },
+  {
+    "name": "Mix Vegetable Salad",
+    "quantity": "1 katori",
+    "calorie": 82,
+    "protein": 1.8,
+    "fibre": 2.4,
+    "carbs": 6.7,
+    "fats": 5.6
+  },
+  {
+    "name": "Mix Vegetable Salad",
+    "quantity": "1 katori",
+    "calorie": 36,
+    "protein": 0.9,
+    "fibre": 2.1,
+    "carbs": 6.5,
+    "fats": 0.9
+  },
+  {
+    "name": "Modak",
+    "quantity": "1 piece(50 gram)",
+    "calorie": 135,
+    "protein": 1.3,
+    "fibre": 1.9,
+    "carbs": 19.4,
+    "fats": 5.7
+  },
+  {
+    "name": "Momos",
+    "quantity": "1 piece(36 gram)",
+    "calorie": 49,
+    "protein": 1.3,
+    "fibre": 0.8,
+    "carbs": 8.5,
+    "fats": 1.1
+  },
+  {
+    "name": "Moong Dal",
+    "quantity": "1 katori",
+    "calorie": 115,
+    "protein": 7.5,
+    "fibre": 2.7,
+    "carbs": 18.9,
+    "fats": 1.2
+  },
+  {
+    "name": "Mushroom Chilli",
+    "quantity": "1 katori",
+    "calorie": 147,
+    "protein": 2.7,
+    "fibre": 1.3,
+    "carbs": 11.2,
+    "fats": 10.4
+  },
+  {
+    "name": "Mushroom Masala",
+    "quantity": "1 katori",
+    "calorie": 90,
+    "protein": 3.4,
+    "fibre": 1.7,
+    "carbs": 6.6,
+    "fats": 6.1
+  },
+  {
+    "name": "Muskmelon-Kharbooja",
+    "quantity": "1 cup(160 gram)",
+    "calorie": 27,
+    "protein": 0.5,
+    "fibre": 1.3,
+    "carbs": 5.6,
+    "fats": 0.3
+  },
+  {
+    "name": "Mutton Biryani",
+    "quantity": "1 katori",
+    "calorie": 187,
+    "protein": 7.1,
+    "fibre": 0.6,
+    "carbs": 17.7,
+    "fats": 9.7
+  },
+  {
+    "name": "Mutton Curry",
+    "quantity": "1 katori",
+    "calorie": 180,
+    "protein": 12.1,
+    "fibre": 1.1,
+    "carbs": 5.0,
+    "fats": 12.5
+  },
+  {
+    "name": "Mutton shami Kebab",
+    "quantity": "1 piece(50 gram)",
+    "calorie": 118,
+    "protein": 4.5,
+    "fibre": 0.9,
+    "carbs": 3.4,
+    "fats": 9.5
+  },
+  {
+    "name": "Naan",
+    "quantity": "1 piece(50 gram)",
+    "calorie": 149,
+    "protein": 3.7,
+    "fibre": 1.3,
+    "carbs": 22.9,
+    "fats": 4.6
+  },
+  {
+    "name": "Nankhatai",
+    "quantity": "1 piece(25 gram)",
+    "calorie": 128,
+    "protein": 1.9,
+    "fibre": 0.8,
+    "carbs": 14.0,
+    "fats": 7.2
+  },
+  {
+    "name": "Omelette",
+    "quantity": "1 egg",
+    "calorie": 127,
+    "protein": 6.7,
+    "fibre": 0.0,
+    "carbs": 1.1,
+    "fats": 11.1
+  },
+  {
+    "name": "Onion Pizza",
+    "quantity": "1 piece",
+    "calorie": 157,
+    "protein": 6.9,
+    "fibre": 1.8,
+    "carbs": 21.9,
+    "fats": 4.9
+  },
+  {
+    "name": "Orange",
+    "quantity": "1 piece(131 gram)",
+    "calorie": 63,
+    "protein": 0.9,
+    "fibre": 1.5,
+    "carbs": 14.3,
+    "fats": 0.3
+  },
+  {
+    "name": "Paalak Paneer",
+    "quantity": "1 katori",
+    "calorie": 146,
+    "protein": 6.7,
+    "fibre": 2.1,
+    "carbs": 5.5,
+    "fats": 10.8
+  },
+  {
+    "name": "Palak Sabzi (With Potatoes)",
+    "quantity": "1 katori",
+    "calorie": 64,
+    "protein": 2.1,
+    "fibre": 2.8,
+    "carbs": 5.2,
+    "fats": 3.9
+  },
+  {
+    "name": "Palak Sabzi (With Potatoes)",
+    "quantity": "1 katori",
+    "calorie": 73,
+    "protein": 1.8,
+    "fibre": 2.2,
+    "carbs": 9.4,
+    "fats": 3.3
+  },
+  {
+    "name": "Paneer bhurji recipe",
+    "quantity": "1 katori",
+    "calorie": 159,
+    "protein": 7.6,
+    "fibre": 1.4,
+    "carbs": 4.8,
+    "fats": 12.3
+  },
+  {
+    "name": "Paneer Burger",
+    "quantity": "1 piece(165 gram)",
+    "calorie": 418,
+    "protein": 8.3,
+    "fibre": 1.2,
+    "carbs": 41.9,
+    "fats": 22.3
+  },
+  {
+    "name": "Paneer Dosa",
+    "quantity": "1 piece(125 gram)",
+    "calorie": 190,
+    "protein": 6.7,
+    "fibre": 2.0,
+    "carbs": 22.6,
+    "fats": 8.2
+  },
+  {
+    "name": "Paneer Jalfrezi",
+    "quantity": "1 katori",
+    "calorie": 135,
+    "protein": 7.3,
+    "fibre": 1.7,
+    "carbs": 5.7,
+    "fats": 9.5
+  },
+  {
+    "name": "Paneer Paratha",
+    "quantity": "1 piece(80 gram)",
+    "calorie": 226,
+    "protein": 10.1,
+    "fibre": 2.4,
+    "carbs": 15.9,
+    "fats": 13.7
+  },
+  {
+    "name": "Paneer Pizza",
+    "quantity": "1 piece(102 gram)",
+    "calorie": 205,
+    "protein": 8.2,
+    "fibre": 1.4,
+    "carbs": 24.1,
+    "fats": 8.4
+  },
+  {
+    "name": "Paneer Salad",
+    "quantity": "1 katori",
+    "calorie": 119,
+    "protein": 6.9,
+    "fibre": 1.7,
+    "carbs": 5.0,
+    "fats": 8.2
+  },
+  {
+    "name": "Pani Puri",
+    "quantity": "1 piece(40 gram)",
+    "calorie": 42,
+    "protein": 0.9,
+    "fibre": 0.6,
+    "carbs": 7.3,
+    "fats": 1.1
+  },
+  {
+    "name": "Papad fry",
+    "quantity": "1 piece(11.5 gram)",
+    "calorie": 46,
+    "protein": 2.1,
+    "fibre": 0.1,
+    "carbs": 5.9,
+    "fats": 1.6
+  },
+  {
+    "name": "Papaya Raw",
+    "quantity": "1 piece(157 gram)",
+    "calorie": 68,
+    "protein": 0.7,
+    "fibre": 2.7,
+    "carbs": 17.0,
+    "fats": 0.4
+  },
+  {
+    "name": "Papaya Ripe",
+    "quantity": "1 piece(145 gram)",
+    "calorie": 46,
+    "protein": 0.9,
+    "fibre": 3.8,
+    "carbs": 10.4,
+    "fats": 0.2
+  },
+  {
+    "name": "Paratha",
+    "quantity": "1 piece",
+    "calorie": 139,
+    "protein": 4.3,
+    "fibre": 3.5,
+    "carbs": 23.2,
+    "fats": 4.0
+  },
+  {
+    "name": "Parval Sabzi",
+    "quantity": "1 katori",
+    "calorie": 70,
+    "protein": 1.4,
+    "fibre": 2.7,
+    "carbs": 6.1,
+    "fats": 4.4
+  },
+  {
+    "name": "Parwal aloo sabzi",
+    "quantity": "1 katori",
+    "calorie": 89,
+    "protein": 1.5,
+    "fibre": 2.3,
+    "carbs": 11.5,
+    "fats": 4.0
+  },
+  {
+    "name": "Pasta",
+    "quantity": "1 katori",
+    "calorie": 117,
+    "protein": 3.3,
+    "fibre": 1.5,
+    "carbs": 18.8,
+    "fats": 3.1
+  },
+  {
+    "name": "Patta Kobi -Cabbage Sabzi",
+    "quantity": "1 katori",
+    "calorie": 99,
+    "protein": 1.7,
+    "fibre": 2.2,
+    "carbs": 13.7,
+    "fats": 4.2
+  },
+  {
+    "name": "Pav Bhaji",
+    "quantity": "1 plate (240 gram)",
+    "calorie": 382,
+    "protein": 8.3,
+    "fibre": 3.4,
+    "carbs": 61.3,
+    "fats": 11.7
+  },
+  {
+    "name": "Pear-Nashpati",
+    "quantity": "1 piece (148 gram)",
+    "calorie": 77,
+    "protein": 0.9,
+    "fibre": 6.4,
+    "carbs": 17.6,
+    "fats": 0.3
+  },
+  {
+    "name": "Peda",
+    "quantity": "1 piece (30 gram)",
+    "calorie": 118,
+    "protein": 4.1,
+    "fibre": 0.2,
+    "carbs": 14.1,
+    "fats": 5.2
+  },
+  {
+    "name": "Petha",
+    "quantity": "1 piece(30 gram)",
+    "calorie": 90,
+    "protein": 0.0,
+    "fibre": 0.0,
+    "carbs": 23.0,
+    "fats": 0.0
+  },
+  {
+    "name": "Phirni",
+    "quantity": "1 katori",
+    "calorie": 276,
+    "protein": 8.5,
+    "fibre": 0.9,
+    "carbs": 38.1,
+    "fats": 10.8
+  },
+  {
+    "name": "Pineapple",
+    "quantity": "1 piece(905 gram)",
+    "calorie": 416,
+    "protein": 3.6,
+    "fibre": 25.3,
+    "carbs": 97.7,
+    "fats": 0.9
+  },
+  {
+    "name": "Pizza",
+    "quantity": "1 slice(58 gram)",
+    "calorie": 138,
+    "protein": 5.9,
+    "fibre": 0.8,
+    "carbs": 16.6,
+    "fats": 5.4
+  },
+  {
+    "name": "Plum-Jamun",
+    "quantity": "1 piece (40 gram)",
+    "calorie": 135,
+    "protein": 2.5,
+    "fibre": 0.0,
+    "carbs": 20.6,
+    "fats": 5.0
+  },
+  {
+    "name": "Poha",
+    "quantity": "1 katori",
+    "calorie": 137,
+    "protein": 2.3,
+    "fibre": 1.0,
+    "carbs": 24.2,
+    "fats": 3.6
+  },
+  {
+    "name": "Pomogranate-Anar",
+    "quantity": "1 cup(174 gram)",
+    "calorie": 144,
+    "protein": 2.9,
+    "fibre": 7.0,
+    "carbs": 32.5,
+    "fats": 2.0
+  },
+  {
+    "name": "Pooran Poli",
+    "quantity": "1 poli(75 grma)",
+    "calorie": 172,
+    "protein": 3.8,
+    "fibre": 2.2,
+    "carbs": 29.0,
+    "fats": 4.5
+  },
+  {
+    "name": "Popcorn",
+    "quantity": "1 cup(8.0 gram)",
+    "calorie": 31,
+    "protein": 1.0,
+    "fibre": 1.2,
+    "carbs": 6.2,
+    "fats": 0.4
+  },
+  {
+    "name": "Prawn Masala",
+    "quantity": "1 katori",
+    "calorie": 135,
+    "protein": 13.9,
+    "fibre": 1.5,
+    "carbs": 5.3,
+    "fats": 6.6
+  },
+  {
+    "name": "Puran poli",
+    "quantity": "1 poli(75 gram)",
+    "calorie": 172,
+    "protein": 3.8,
+    "fibre": 2.2,
+    "carbs": 29.0,
+    "fats": 4.5
+  },
+  {
+    "name": "Puri",
+    "quantity": "1 puri (40 gram)",
+    "calorie": 134,
+    "protein": 3.2,
+    "fibre": 2.9,
+    "carbs": 18.5,
+    "fats": 5.3
+  },
+  {
+    "name": "Pyaaz Pakora",
+    "quantity": "1 piece(15 gram)",
+    "calorie": 41,
+    "protein": 0.7,
+    "fibre": 0.4,
+    "carbs": 2.8,
+    "fats": 3.0
+  },
+  {
+    "name": "Rabri",
+    "quantity": "1 katori",
+    "calorie": 360,
+    "protein": 9.0,
+    "fibre": 1.4,
+    "carbs": 54.1,
+    "fats": 13.2
+  },
+  {
+    "name": "Rahar Dal",
+    "quantity": "1 cup(197 gram)",
+    "calorie": 660,
+    "protein": 43.9,
+    "fibre": 17.9,
+    "carbs": 113.5,
+    "fats": 3.4
+  },
+  {
+    "name": "Raisins",
+    "quantity": "1 piece(0.5 gram)",
+    "calorie": 1,
+    "protein": 0.0,
+    "fibre": 0.0,
+    "carbs": 0.4,
+    "fats": 0.0
+  },
+  {
+    "name": "Rajma",
+    "quantity": "1 cup (184 gram)",
+    "calorie": 637,
+    "protein": 42.1,
+    "fibre": 45.8,
+    "carbs": 111.5,
+    "fats": 2.4
+  },
+  {
+    "name": "Rice",
+    "quantity": "1 katori",
+    "calorie": 120,
+    "protein": 2.6,
+    "fibre": 0.5,
+    "carbs": 26.7,
+    "fats": 0.4
+  },
+  {
+    "name": "Roti",
+    "quantity": "1 piece",
+    "calorie": 85,
+    "protein": 3.0,
+    "fibre": 2.7,
+    "carbs": 17.4,
+    "fats": 0.4
+  },
+  {
+    "name": "Sabudana Kheer",
+    "quantity": "1 katori",
+    "calorie": 296,
+    "protein": 5.5,
+    "fibre": 0.6,
+    "carbs": 53.9,
+    "fats": 7.4
+  },
+  {
+    "name": "Samosa",
+    "quantity": "1 piece (100 gram)",
+    "calorie": 276,
+    "protein": 3.6,
+    "fibre": 1.9,
+    "carbs": 27.9,
+    "fats": 16.6
+  },
+  {
+    "name": "Sandwich",
+    "quantity": "1 sandwich(167 g)",
+    "calorie": 225,
+    "protein": 6.5,
+    "fibre": 2.9,
+    "carbs": 34.2,
+    "fats": 6.9
+  },
+  {
+    "name": "Sattu Paratha",
+    "quantity": "1 piece(65 gram)",
+    "calorie": 192,
+    "protein": 7.0,
+    "fibre": 3.4,
+    "carbs": 27.5,
+    "fats": 5.9
+  },
+  {
+    "name": "Shrikhand",
+    "quantity": "1 katori(130 gram)",
+    "calorie": 288,
+    "protein": 5.1,
+    "fibre": 0.1,
+    "carbs": 49.4,
+    "fats": 8.5
+  },
+  {
+    "name": "Sohan halwa",
+    "quantity": "1 piece(60 gram)",
+    "calorie": 249,
+    "protein": 0.8,
+    "fibre": 0.4,
+    "carbs": 32.1,
+    "fats": 13.9
+  },
+  {
+    "name": "Sookhi Moong Dal",
+    "quantity": "1 katori",
+    "calorie": 150,
+    "protein": 8.4,
+    "fibre": 3.3,
+    "carbs": 21.5,
+    "fats": 3.6
+  },
+  {
+    "name": "Sprouts Curry",
+    "quantity": "1 katori",
+    "calorie": 92,
+    "protein": 3.5,
+    "fibre": 2.0,
+    "carbs": 10.4,
+    "fats": 4.7
+  },
+  {
+    "name": "Sprouts Salad",
+    "quantity": "1 katori",
+    "calorie": 24,
+    "protein": 1.7,
+    "fibre": 1.4,
+    "carbs": 5.2,
+    "fats": 0.2
+  },
+  {
+    "name": "Stuffed Okra (Bharwa Bhindi)",
+    "quantity": "1 katori",
+    "calorie": 92,
+    "protein": 2.5,
+    "fibre": 5.0,
+    "carbs": 10.8,
+    "fats": 4.7
+  },
+  {
+    "name": "Suji Halva",
+    "quantity": "1 katori",
+    "calorie": 247,
+    "protein": 2.5,
+    "fibre": 1.0,
+    "carbs": 38.5,
+    "fats": 9.6
+  },
+  {
+    "name": "Sukhi Arbi Fry",
+    "quantity": "1 katori",
+    "calorie": 212,
+    "protein": 0.8,
+    "fibre": 3.6,
+    "carbs": 23.3,
+    "fats": 13.0
+  },
+  {
+    "name": "Sukhi Bhaji (Farali Potato Recipe)",
+    "quantity": "1 katori",
+    "calorie": 131,
+    "protein": 1.9,
+    "fibre": 1.4,
+    "carbs": 16.0,
+    "fats": 7.0
+  },
+  {
+    "name": "Suran Sabji",
+    "quantity": "1 katori",
+    "calorie": 107,
+    "protein": 1.4,
+    "fibre": 3.7,
+    "carbs": 14.0,
+    "fats": 5.1
+  },
+  {
+    "name": "Sweet Potato Sabzi",
+    "quantity": "1 katori",
+    "calorie": 132,
+    "protein": 1.6,
+    "fibre": 2.9,
+    "carbs": 17.1,
+    "fats": 6.5
+  },
+  {
+    "name": "Tawa Paneer",
+    "quantity": "1 katori",
+    "calorie": 226,
+    "protein": 11.6,
+    "fibre": 0.9,
+    "carbs": 4.1,
+    "fats": 18.4
+  },
+  {
+    "name": "Tea- 1 cup",
+    "quantity": "1 cup(180 ml)",
+    "calorie": 73,
+    "protein": 3.0,
+    "fibre": 0.0,
+    "carbs": 8.3,
+    "fats": 3.2
+  },
+  {
+    "name": "Tindora Sabzi Recipe",
+    "quantity": "1 katori",
+    "calorie": 62,
+    "protein": 1.7,
+    "fibre": 3.5,
+    "carbs": 3.1,
+    "fats": 4.7
+  },
+  {
+    "name": "Tofu Bhurji",
+    "quantity": "1 katori",
+    "calorie": 88,
+    "protein": 4.1,
+    "fibre": 1.7,
+    "carbs": 4.7,
+    "fats": 6.3
+  },
+  {
+    "name": "Undhiyu",
+    "quantity": "1 katori",
+    "calorie": 233,
+    "protein": 6.7,
+    "fibre": 6.5,
+    "carbs": 18.8,
+    "fats": 14.7
+  },
+  {
+    "name": "Vada",
+    "quantity": "1 vada(60 gram)",
+    "calorie": 155,
+    "protein": 5.8,
+    "fibre": 2.9,
+    "carbs": 14.4,
+    "fats": 8.3
+  },
+  {
+    "name": "Veg Biryani",
+    "quantity": "1 katori",
+    "calorie": 143,
+    "protein": 2.5,
+    "fibre": 1.4,
+    "carbs": 20.3,
+    "fats": 5.7
+  },
+  {
+    "name": "Vegetable Pulao",
+    "quantity": "1 katori",
+    "calorie": 134,
+    "protein": 2.4,
+    "fibre": 1.7,
+    "carbs": 22.5,
+    "fats": 3.7
+  },
+  {
+    "name": "Vegtable Soup",
+    "quantity": "1 katori",
+    "calorie": 51,
+    "protein": 1.7,
+    "fibre": 2.4,
+    "carbs": 7.3,
+    "fats": 1.8
+  },
+  {
+    "name": "Watermelon",
+    "quantity": "1 cup(152 gram)",
+    "calorie": 46,
+    "protein": 0.9,
+    "fibre": 0.6,
+    "carbs": 11.5,
+    "fats": 0.2
+  },
+  {
+    "name": "Whey protein Powder",
+    "quantity": "1 scoop(36 gram)",
+    "calorie": 135,
+    "protein": 22.0,
+    "fibre": 0.5,
+    "carbs": 7.0,
+    "fats": 2.1
+  },
+  {
+    "name": "Coffee without milk",
+    "quantity": "1 cup (250 ml)",
+    "calorie": 4,
+    "protein": 0.1,
+    "fibre": 0.0,
+    "carbs": 0.8,
+    "fats": 0.0
+  },
+  {
+    "name": "Paneer Roll",
+    "quantity": "1 roll(180 gram)",
+    "calorie": 344,
+    "protein": 14.6,
+    "fibre": 5.2,
+    "carbs": 29.5,
+    "fats": 19.6
+  },
+  {
+    "name": "Veg Roll",
+    "quantity": "1 piece(67 gram)",
+    "calorie": 160,
+    "protein": 2.0,
+    "fibre": 1.7,
+    "carbs": 14.7,
+    "fats": 10.5
+  },
+  {
+    "name": "Chickem Roll",
+    "quantity": "1 roll (196 gram)",
+    "calorie": 327,
+    "protein": 21.1,
+    "fibre": 1.9,
+    "carbs": 30.6,
+    "fats": 11.9
+  },
+  {
+    "name": "Chicken Sandwich",
+    "quantity": "1 piece(158 gram)",
+    "calorie": 364,
+    "protein": 18.6,
+    "fibre": 2.1,
+    "carbs": 37.7,
+    "fats": 13.6
+  },
+  {
+    "name": "Paneer Sandwich",
+    "quantity": "1 sandwich(159 g)",
+    "calorie": 382,
+    "protein": 12.4,
+    "fibre": 2.5,
+    "carbs": 37.7,
+    "fats": 20.0
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "quantity": "1 kattori",
+    "calorie": 200,
+    "protein": 8.5,
+    "fibre": 1.9,
+    "carbs": 6.3,
+    "fats": 18.5
+  }
+]
